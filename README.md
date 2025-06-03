@@ -11,6 +11,6 @@ Bike Sales Dashboard : (Excel)
 ******
 
 Airbnb Dashboard : (Tableau)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e9e9602f-367b-445b-b930-0803c39d5436)
 
 
