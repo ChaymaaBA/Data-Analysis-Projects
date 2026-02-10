@@ -22,5 +22,13 @@ Data Professional Survey Breakdown : (Power BI)
 
 ![image](https://github.com/user-attachments/assets/da4a4f88-00ac-4899-b560-38a97dc3d6b8)
 
+******
+
+Chelsea vs Aston Villa (WSL 2021) : (Python)
+
+<img width="1728" height="2304" alt="Chelsea vs Aston villa WSL" src="https://github.com/user-attachments/assets/9959fa02-103e-4d2b-baac-6486bf3f4f78" />
+
+
+
 
 
